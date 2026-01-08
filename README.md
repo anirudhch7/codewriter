@@ -1,6 +1,6 @@
 # CodeWriter
 
-CodeWriter is a web-based code editor that allows you to write HTML, CSS, and JavaScript code in real-time and see the output instantly. It's similar to popular online code playgrounds like CodePen, providing a split-pane interface with live preview capabilities.
+CodeWriter is a web-based code editor that allows you to write HTML, CSS, and JavaScript code in real-time and see the output instantly. It provides a split-pane interface with live preview capabilities.
 
 ## Features
 
