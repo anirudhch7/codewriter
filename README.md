@@ -4,7 +4,6 @@ CodeWriter is a web-based code editor that allows you to write HTML, CSS, and Ja
 
 ## Features
 
-
 - **Live Code Preview**: See your changes reflected in real-time as you type
 - **Triple Editor Layout**: Separate editors for HTML, CSS, and JavaScript
 - **Syntax Highlighting**: Code syntax highlighting powered by CodeMirror
